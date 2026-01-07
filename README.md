@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Vikram Aditya 👋
+### 2nd Year B.Tech (AI & ML) | SPSU, Udaipur
 
-<!--
-**VikramAditya0909/VikramAditya0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Software Engineer with a strong interest in building data-driven solutions using **Python** and **SQL**. I focus on creating tools that improve efficiency in education and healthcare management.
 
-Here are some ideas to get you started:
+- 🔭 **Currently working on:** Refining my Student Performance Optimizer with predictive logic.
+- 🛠️ **Tech Stack:** Python, SQL, SQLite, Git, GitHub.
+- 🎯 **2026 Goals:** Secure a Software Engineering Internship (STEP/Explore) and master AI/ML fundamentals.
+- 📸 **Passion:** Photography (Portraits, Events, and Wildlife). Saving up for my dream **Sony a6700** setup!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📂 Featured Projects
+
+#### 🎓 [Student Performance Optimizer](https://github.com/VikramAditya0909/Student-Performance-Optimizer)
+*An automated risk-profiling engine built with Python and SQLite to identify students needing academic intervention.*
+
+#### 🏥 [Hospital Management System](https://github.com/VikramAditya0909/Hospital-Management-System)
+*A relational database system designed to resolve scheduling conflicts and manage patient records using advanced SQL.*
