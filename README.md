@@ -15,12 +15,3 @@ I am an aspiring Software Engineer with a strong interest in building data-drive
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📂 Featured Projects
-
-#### 🎓 [Student Performance Optimizer](https://github.com/VikramAditya0909/Student-Performance-Optimizer)
-*An automated risk-profiling engine built with Python and SQLite to identify students needing academic intervention.*
-
-#### 🏥 [Hospital Management System](https://github.com/VikramAditya0909/Hospital-Management-System)
-*A relational database system designed to resolve scheduling conflicts and manage patient records using advanced SQL.*
