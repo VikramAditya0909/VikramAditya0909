@@ -1,5 +1,5 @@
 # Hi, I'm Vikram Aditya 👋
-### 2nd Year B.Tech (AI & ML) | SPSU, Udaipur
+### 3rd Year B.Tech (AI & ML) | SPSU, Udaipur
 
 I am an aspiring Software Engineer with a strong interest in building data-driven solutions using **Python** and **SQL**. I focus on creating tools that improve efficiency in education and healthcare management.
 
